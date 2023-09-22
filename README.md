@@ -239,7 +239,7 @@ You can use this to make fake screenshots without having to use Inspect Element 
 document.designMode = 'on';
 ```
 
-# Fake mute/deafen
+## Fake mute/deafen
 
 1. Join voice channel
 2. Mute and deafen youself
